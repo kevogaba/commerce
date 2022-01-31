@@ -29,8 +29,11 @@ body {
 }
 
 a {
-    text-decoration:#f0f4fc;
-    color: white;
+    text-decoration: none;
+}
+
+.dropdown-item {
+    text-decoration-color: initial;
 }
 
 .header {
