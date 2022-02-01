@@ -2,7 +2,6 @@
 
 ## Table of contents
 - [Description and requirements](#description-and-requirements)
-- [Preview](#preview)
 - [Installation](#installation)
 
 ## Description and requirements
